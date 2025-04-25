@@ -35,9 +35,9 @@ O projeto foi desenvolvido utilizando **JavaScript (com orientação a objetos)*
 
 Este projeto foi desenvolvido em grupo como parte de uma atividade avaliativa da disciplina de Programação Web.
 
+- [Júlia Gabriela](https://github.com/Julia-Gabriela)
 - [Lara Ewellen](https://github.com/Laraewellen)
 - [Luiza lima](https://github.com/luizalima13)
-- [Júlia Gabriela](https://github.com/Julia-Gabriela)
 
 ---
 
