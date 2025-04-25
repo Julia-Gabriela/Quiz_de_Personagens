@@ -43,10 +43,7 @@ Este projeto foi desenvolvido em grupo como parte de uma atividade avaliativa da
 
 ## 📷 Demonstração
 
-<video width="320" height="240" controls>
-  <source src="./imagens/Quiz_de_Personagens.mp4" type="video/mp4">
-  Seu navegador não suporta vídeo.
-</video>
+![screenshot do projeto](./imagens/Quiz_de_Personagens.gif)
 
 ---
 
