@@ -6,6 +6,8 @@ O projeto foi desenvolvido utilizando **JavaScript (com orientação a objetos)*
 
 > 🔗 Acesse o projeto diretamente pelo arquivo [`index.html`](./index.html)
 
+> [Clique aqui para acessar o site](https://julia-gabriela.github.io/Quiz_de_Personagens/)
+
 ---
 
 ## 🔍 Funcionalidades
